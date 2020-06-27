@@ -14,3 +14,5 @@ leaders of Gen Z to spearhead projects that strengthen American democracy.
  * asshole
  * shitty
  
+> I’ve always been more interested> in the future than in the past.
+

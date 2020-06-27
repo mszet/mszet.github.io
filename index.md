@@ -8,3 +8,9 @@ to learn systems thinking, personal development, and participatory democracy.
 The Fellowship culminates in the Fellows coming together in June 2020 to 
 launch "Civics 2030," a national campaign to mobilize funds and support for 
 leaders of Gen Z to spearhead projects that strengthen American democracy.
+
+## My Character
+ * silly
+ * asshole
+ * shitty
+ 
